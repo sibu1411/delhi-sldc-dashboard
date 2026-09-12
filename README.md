@@ -19,3 +19,14 @@ delhi-sldc-dashboard/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+🚀 Quick Start
+Bash
+# Clone repository
+git clone [https://github.com/YOUR_USERNAME/delhi-sldc-dashboard.git](https://github.com/YOUR_USERNAME/delhi-sldc-dashboard.git)
+cd delhi-sldc-dashboard
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch app
+streamlit run app.py
